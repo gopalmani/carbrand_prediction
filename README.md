@@ -18,5 +18,5 @@ Trained model is saved as brandNet.model and VGGNET network is saved in cnnmodel
 
 3. We use classify.py 
 #usage code
-python classify.py --model brandNet.model --labelbin lb.pickles --image examples/bmw1.jpg
+python classify.py --model brandNet.model --labelbin lb.pickles --image examples/audi1.jpg
 
